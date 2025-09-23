@@ -1,0 +1,6 @@
+langchain
+langchain-google-genai
+python-dotenv
+python-whois
+requests
+google-search-results
